@@ -1,0 +1,7 @@
+{
+  "name": "capacitor-issue8241-http-progress",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
